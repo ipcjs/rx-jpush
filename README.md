@@ -1,5 +1,5 @@
 # rx-jpush
-极光推送
+极光推送 测试中...
 
 https://greenify.github.io/ipcjs/rx-jpush
 
