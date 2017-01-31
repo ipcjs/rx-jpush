@@ -1,2 +1,5 @@
 <prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" class="cn.jpush.android.service.PushService">
+    <intent-filter>
+        <action android:name="cn.jpush.android.intent.PushService" />
+    </intent-filter>
 </prescription>
